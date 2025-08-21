@@ -1,2 +1,2 @@
 # Ini adalah repository untuk latihan membuat branch baru di GitHub
-github itu asyik lo
+github itu asyik lo (beneran)
